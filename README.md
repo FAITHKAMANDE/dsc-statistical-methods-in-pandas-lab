@@ -26,6 +26,7 @@ In the cell below:
 # Import pandas
 
 
+
 # Import the 'lego_sets.csv' dataset
 df = None
 
